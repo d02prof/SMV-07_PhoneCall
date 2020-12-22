@@ -1,0 +1,16 @@
+//TODO  Navodila: Youtube / Code in Flow /
+
+
+//TODO  How to Make a Phone Call from Your App (+ Permission Request) - Android Studio Tutorial (https://www.youtube.com/watch?v=UDwj5j4tBYg)
+
+
+//TODO App permissions vodiè na Android Developers (https://developer.android.com/guide/topics/permissions/overview)
+//TODO Request permission (https://www.youtube.com/watch?v=iHbdDAOJHIU)
+//TODO Video tutorial za app permission na primeru lokacije - Android Studio Tutorial - Getting Users Current Location (Run-Time Permissions) (https://www.youtube.com/watch?v=SsmXgb0XpeY)
+
+//SLIKICE ZA IMAGEVIEWje
+//TODO 01: res / drawable / new / Vector Asset / Clip Art / search Phone in izberi eno ikono, spremeni ime na ic_phone
+//TODO 02: odpri pripadajoèi xml file v drawables in spremeni tint npr. na primarno barvo: android:tint="?attr/colorPrimary" ali na kaj drugega npr #1111FF
+
+//DO Android 6.0 (Marshmallow, API 23) je bilo dovoljenje dovolj nastaviti v manifestu, po tem pa ge je treba med izvajanjem
+//TODO 03: manifest med </application> in </manifest>: <uses-permission android:name="android.permission.CALL_PHONE"></uses-permission> dovolj do pred marshmallow, od tam naprej run time dovoljenja
