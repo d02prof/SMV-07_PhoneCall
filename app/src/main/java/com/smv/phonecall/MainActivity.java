@@ -19,8 +19,8 @@ public class MainActivity extends AppCompatActivity
 {
     private static final int REQUEST_CALL = 1;
 
-    EditText editTextStevilka;
-    ImageView imageViewPoklici;
+    private EditText editTextStevilka;
+    private ImageView imageViewPoklici;
 
     @Override
     protected void onCreate(Bundle savedInstanceState)

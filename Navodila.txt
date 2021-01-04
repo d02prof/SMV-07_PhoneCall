@@ -12,5 +12,6 @@
 //TODO 01: res / drawable / new / Vector Asset / Clip Art / search Phone in izberi eno ikono, spremeni ime na ic_phone
 //TODO 02: odpri pripadajoèi xml file v drawables in spremeni tint npr. na primarno barvo: android:tint="?attr/colorPrimary" ali na kaj drugega npr #1111FF
 
-//DO Android 6.0 (Marshmallow, API 23) je bilo dovoljenje dovolj nastaviti v manifestu, po tem pa ge je treba med izvajanjem
+//DOVOLJENJE V MANIFESTU
+//Do Android 6.0 (Marshmallow, API 23) je bilo dovoljenje dovolj nastaviti v manifestu, po tem pa ge je treba med izvajanjem
 //TODO 03: manifest med </application> in </manifest>: <uses-permission android:name="android.permission.CALL_PHONE"></uses-permission> dovolj do pred marshmallow, od tam naprej run time dovoljenja
