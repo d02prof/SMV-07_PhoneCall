@@ -41,7 +41,7 @@ public class MainActivity extends AppCompatActivity
         });
     }
 
-    private void Telefoniraj()
+    public void Telefoniraj()
     {
         String stevilka = editTextStevilka.getText().toString();
 
